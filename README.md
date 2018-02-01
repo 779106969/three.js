@@ -1,6 +1,7 @@
 # three.js
-#### 一.步骤 ####
-1.引入js文件
+### 一.步骤 ###
+#### 1.引入js文件 ####
+
 
 //作用：Three.js引擎的js
 <script src="js/three.js"></script>
@@ -14,6 +15,7 @@
 //作用：控制鼠标旋转缩放
 <script src="js/OrbitControls.js">/script>
 
-2.建立场景
+#### 2.建立场景 ####
 
-3.添加摄像头
+#### 3.添加摄像头 ####
+
