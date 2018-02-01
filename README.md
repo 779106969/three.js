@@ -2,7 +2,7 @@
 ## 一.步骤 ##
 ### 1.引入js文件 ###
 ```html
-//作用：Three.js引擎的js
+//作用：Three.js库
 <script src="js/three.js"></script>
 
 //作用：检测当前浏览器是否支持或者开启了WEBGL
