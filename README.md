@@ -1,4 +1,4 @@
-# three.js
+# three.js #
 ## 一.步骤 ##
 ### 1.引入js文件 ###
 ```html
