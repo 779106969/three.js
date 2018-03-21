@@ -32,9 +32,6 @@ let controls = new THREE.OrbitControls( camera, renderer.domElement );
 ```
 ### 6.绘制三维坐标 ###
 ### 7.数据处理 ###
-## 二.存在问题 ##
-1.点击按钮开始刷新页面，内存无法释放。<br>
-2.未选择相应的材质、灯光。
 
 
 
